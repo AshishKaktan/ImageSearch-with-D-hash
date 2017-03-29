@@ -1,1 +1,1 @@
-# ImageSearch-with-D-hash
+# ImageSearch-with-Difference-hash
